@@ -1,4 +1,4 @@
 streamlit
 plotly
-pg8000
 pandas
+pg8000
